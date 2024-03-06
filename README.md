@@ -1,4 +1,4 @@
-# simple-app-to-add-substract-participants
+# Simple App to add/substract Participants
 Simple App to add/substract Participants
 ![Screenshot 2024-03-06 at 5 48 41 AM](https://github.com/danielurra/simple-app-to-add-substract-participants/assets/51704179/60ee3a39-6350-4b56-aefa-25b5fb5269b0)<br>
 ## Grab the code
