@@ -1,6 +1,6 @@
 # Simple App to add/substract Participants
-Simple App to add/substract Participants
-![Screenshot 2024-03-06 at 5 48 41 AM](https://github.com/danielurra/simple-app-to-add-substract-participants/assets/51704179/60ee3a39-6350-4b56-aefa-25b5fb5269b0)<br>
+Simple App to add/substract Participants<br>
+![participapp](https://github.com/danielurra/simple-app-to-add-substract-participants/assets/51704179/5c2690fd-6dfd-4c95-b6a0-69e167949170)
 ## Grab the code
 ```swift
 import SwiftUI
